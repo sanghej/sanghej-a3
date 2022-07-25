@@ -1,0 +1,22 @@
+{
+  "name": "rand-gen-api",
+  "version": "1.0.0",
+  "description": "this is my first node.js application",
+  "main": "app.js",
+  "scripts": {
+    "test": "build"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "Jashan Sanghera",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
